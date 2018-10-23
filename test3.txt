@@ -1,0 +1,7 @@
+This chapter presents some basic radar definitions and establishes much of the nomenclature
+used throughout this text. The word radar is an abbreviation for radio detection and ranging.
+In most cases, radar systems use modulated waveforms and directive antennas to transmit
+electromagnetic energy into a specific volume in space to search for targets. Objects (targets)
+within a search volume will reflect portions of the incident energy (radar returns or echoes) in
+the direction of the radar. These echoes are then processed by the radar receiver to extract target
+information such as range, velocity, angular position, and other target identifying characteristics.

@@ -1,0 +1,2 @@
+Hi, maybe could you guide me on how to convert microhone's audio to text on Matlab please?
+I speak and I need that information but i do not how to do it.

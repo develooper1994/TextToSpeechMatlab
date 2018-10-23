@@ -1,0 +1,10 @@
+Hello!
+How are you?
+My name is Mustafa Selcuk Caglar.
+I have studied Electrical and Electronics Engineering at Mersin University and I specialized in Embedded Systems.
+Now I'm doing a master's degree in Radar System. I am new at Radar Systems.
+soooo
+I am beginner at Matlab Programing.
+I know c,c++ and Python.
+I made a lot of projects about signal processing like Lane detection for driving automation.
+I always love create good things for humanity.
